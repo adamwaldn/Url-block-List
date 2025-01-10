@@ -7,4 +7,3 @@ go-updater.brave.com
 static.ads.brave.com
 usage-ping.brave.com
 brave-core-ext.s3.brave.com
-movies.youversionapi.com
