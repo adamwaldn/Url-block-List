@@ -1,3 +1,10 @@
 web.archive.org
 laberintogris.com
 expressapisv2.net
+incoming.telemetry.mozilla.org
+api.rewards.brave.com
+go-updater.brave.com
+static.ads.brave.com
+usage-ping.brave.com
+brave-core-ext.s3.brave.com
+movies.youversionapi.com
