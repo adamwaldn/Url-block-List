@@ -34,3 +34,4 @@ versioncheck.addons.mozilla.org/
 services.addons.mozilla.org/
 contile-images.services.mozilla.com
 spocs.getpocket.com
+themoviedb.org
