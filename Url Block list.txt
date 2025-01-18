@@ -35,3 +35,7 @@ services.addons.mozilla.org/
 contile-images.services.mozilla.com
 spocs.getpocket.com
 themoviedb.org
+primevideo.com
+vudu.com
+theforgemovie.com
+sonypictures.com
