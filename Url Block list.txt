@@ -57,3 +57,4 @@ sflix.to
 in.bookmyshow.com
 rottentomatoes.com
 tviv.org
+yep.one
